@@ -1,4 +1,15 @@
 Debug/
 fltk-1.3.3/
 Release/
-
+*.VC.db
+*.VC.opendb
+*.dsp
+*.opt
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+*.suo
+*.ncb
